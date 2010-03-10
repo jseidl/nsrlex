@@ -1,0 +1,14 @@
+NSRL hash signature file known-good and known-bad hashsets extraction tool.
+
+This tool is intended for computer-forensics and incident-response professionals that
+want to use the NSRL hashsets <http://www.nsrl.nist.gov/Downloads.htm> on their known-good
+and known-bad hashsets.
+
+This tool uses the NSRLProd.txt file supplied within the NSRL hashsets and compare their
+ProductCodes against the ones noted by NSRLProd.txt as 'Hacker Tool'
+
+This tool is an improovement from Tony Rodrigues' nsrlext.pl.
+
+CHANGELOG
+2010-03-10
+	* Initial release
