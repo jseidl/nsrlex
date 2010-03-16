@@ -20,7 +20,6 @@ import os.path
 
 # Variable initialization
 sScriptName = sys.argv[0]
-aHackerTool = []
 
 def main():
 	"""
